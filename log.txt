@@ -1,0 +1,20 @@
+18-11-06 07:59:55pm Successfully Connected to MYSQL
+18-11-06 07:59:55pm  harsh: wrong username or password 
+ ------------------------------------------------------------- 
+ 
+18-11-06 08:00:04pm Successfully Connected to MYSQL
+18-11-06 08:00:04pm  harsh: signed in 
+ ------------------------------------------------------------- 
+ 
+18-11-06 08:00:27pm Successfully Connected to MYSQL
+18-11-06 08:00:27pm  lokesh: wrong username or password 
+ ------------------------------------------------------------- 
+ 
+18-11-06 08:00:40pm Successfully Connected to MYSQL
+18-11-06 08:00:40pm  lokesh: signed in 
+ ------------------------------------------------------------- 
+ 
+18-11-12 08:16:17pm Successfully Connected to MYSQL
+18-11-12 08:16:17pm  harsh: signed in 
+ ------------------------------------------------------------- 
+ 
